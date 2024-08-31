@@ -1,1 +1,5 @@
-Coppercube Server Test
+{
+  "name": "John",
+  "age": 30,
+  "city": "New York"
+}
